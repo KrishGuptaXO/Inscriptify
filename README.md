@@ -1,5 +1,6 @@
 # Inscriptify
 Extract. Understand. Structure.
+(Moved to https://github.com/RakshitRao2712/Inscriptify)
 
 A tool to extract text from images, videos and PDFs.
 
